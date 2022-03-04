@@ -1,7 +1,7 @@
-### Oiii! Eu sou Lucas Barreto
+### Oiii! Eu sou Matheus Barreto
 - 🔭 Eu atualmente procuro estágio em front-end / back-end
 - 🌱 Estudando Javascript e Python
-- 💬 Contate-me no email: lucasbrittobr@gmail.com
+- 💬 Contate-me no email: theus.barretto@gmail.com
 
 <div>
   <a href ="https://github.com/TheusBarreto">
